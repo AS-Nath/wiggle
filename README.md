@@ -17,7 +17,7 @@ This project is intended to satisfy that wish.
 
    To execute the included Windows 64-bit executable.
 
-An example of generated text : \
-                   ![Wiggle text generated via this project](images/custom.png)
+An example of generated text : \ <br>
+![Wiggle text generated via this project](images/custom.png)
 
 Enjoy!
