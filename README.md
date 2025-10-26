@@ -9,15 +9,15 @@ This project is intended to satisfy that wish.
 ## How to Use 
 1. Clone a copy of the repository to your system with :
 
-```git clone https://github.com/AS-Nath/wiggle```
+   ```git clone https://github.com/AS-Nath/wiggle```
 
 2. You should modify the source yourself to select the parameters of the wiggle text that you would like (word, number of waves, length of wave). You can recompile the source and run accordingly.
 
-2. (alternative) Should you wish to simply test the code, you can run : 
+   Should you wish to simply test the code, you can run : 
 
-```./a.out```
+   ```./a.out```
 
-To execute the included Windows 64-bit executable.
+   To execute the included Windows 64-bit executable.
 
 An example of generated text : 
 ![Wiggle text generated via this project](images/custom.png)
